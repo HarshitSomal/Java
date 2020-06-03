@@ -1,0 +1,31 @@
+[ERROR] 2019-11-02 17:05:23 ERROR myLogger:15 - I am error log message
+ [DEBUG] 2019-11-02 17:05:23 DEBUG myLogger:16 - I am error log message
+ [WARN ] 2019-11-02 17:05:23 WARN  myLogger:17 - I am error log message
+ [FATAL] 2019-11-02 17:05:23 FATAL myLogger:18 - I am error log message
+ [INFO ] 2019-11-02 17:05:23 INFO  myLogger:19 - I am error log message
+ [ERROR] 2019-11-02 17:13:55 ERROR myLogger:15 - I am error log message
+ [DEBUG] 2019-11-02 17:13:55 DEBUG myLogger:16 - I am error log message
+ [WARN ] 2019-11-02 17:13:55 WARN  myLogger:17 - I am error log message
+ [FATAL] 2019-11-02 17:13:55 FATAL myLogger:18 - I am error log message
+ [INFO ] 2019-11-02 17:13:55 INFO  myLogger:19 - I am error log message
+ [ERROR] 2019-11-02 17:14:55 ERROR myLogger:15 - I am error log message
+ [DEBUG] 2019-11-02 17:14:55 DEBUG myLogger:16 - I am error log message
+ [WARN ] 2019-11-02 17:14:55 WARN  myLogger:17 - I am error log message
+ [FATAL] 2019-11-02 17:14:55 FATAL myLogger:18 - I am error log message
+ [INFO ] 2019-11-02 17:14:55 INFO  myLogger:19 - I am error log message
+ [ERROR] 2019-11-02 17:15:15 ERROR myLogger:15 - I am error log message
+ [DEBUG] 2019-11-02 17:15:16 DEBUG myLogger:16 - I am error log message
+ [WARN ] 2019-11-02 17:15:16 WARN  myLogger:17 - I am error log message
+ [FATAL] 2019-11-02 17:15:16 FATAL myLogger:18 - I am error log message
+ [INFO ] 2019-11-02 17:15:16 INFO  myLogger:19 - I am error log message
+ [ERROR] 2019-11-02 17:15:17 ERROR myLogger:15 - I am error log message
+ [DEBUG] 2019-11-02 17:15:17 DEBUG myLogger:16 - I am error log message
+ [WARN ] 2019-11-02 17:15:17 WARN  myLogger:17 - I am error log message
+ [FATAL] 2019-11-02 17:15:17 FATAL myLogger:18 - I am error log message
+ [INFO ] 2019-11-02 17:15:17 INFO  myLogger:19 - I am error log message
+ [ERROR] 2019-11-02 17:17:44 ERROR myLogger:15 - I am error log message
+ [DEBUG] 2019-11-02 17:17:44 DEBUG myLogger:16 - I am error log message
+ [WARN ] 2019-11-02 17:17:44 WARN  myLogger:17 - I am error log message
+ [FATAL] 2019-11-02 17:17:44 FATAL myLogger:18 - I am error log message
+ [INFO ] 2019-11-02 17:17:44 INFO  myLogger:19 - I am error log message
+ 
